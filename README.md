@@ -1,1 +1,0 @@
-# sportium-test
