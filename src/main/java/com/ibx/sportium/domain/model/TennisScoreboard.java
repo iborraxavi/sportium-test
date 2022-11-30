@@ -1,4 +1,4 @@
-package com.ibx.sportium.model;
+package com.ibx.sportium.domain.model;
 
 import lombok.Builder;
 import lombok.Getter;
